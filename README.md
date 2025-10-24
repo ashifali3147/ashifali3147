@@ -59,20 +59,6 @@ Empowering developers to add seamless video calling features to their apps.
 
 ---
 
-### 🏆 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashifali3147&show_icons=true&theme=radical"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashifali3147&theme=radical"/>
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashifali3147&theme=radical"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ashifali3147&theme=radical&row=1&column=7"/>
-</p>
-
----
-
 ### ⚡ Fun Fact
 
 > I love experimenting with new frameworks and turning ideas into real products—whether it’s Android, Flutter, or anything in between!
